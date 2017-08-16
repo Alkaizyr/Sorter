@@ -4,7 +4,7 @@ This program uses *mmap()* which is **Unix** system call.
 
 # Performance analysis
 
-The results of stability and speed tests are listed as follows.
+The results of stability tests are listed as follows.
 
 **Valgrind/Memcheck** shows the following result for each sorting algorithm on test:
 
